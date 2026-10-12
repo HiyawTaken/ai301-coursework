@@ -1,0 +1,8 @@
+tools/pr-precheck/CONTRACT.md -text
+tools/pr-precheck/SKILL.md -text
+tools/pr-precheck/procedure.md -text
+tools/pr-precheck/references/evidence-guide.md -text
+tools/pr-precheck/rubric.md -text
+tools/pr-precheck/scope.md -text
+tools/pr-precheck/voice-guide.md -text
+beat-1-sandbox/unit-4/eval-run.txt -text
