@@ -57,7 +57,7 @@ one in the week it belongs to.
 
 **Unit 5: Rebuilt my issue selector as a Python documentation/configuration scout**
 
-I carried my fit profile into issue-scout, wrote two GitHub searches and a five-issue ranking strategy, and ran one scan that accepted four issues and rejected an underspecified Docker request. The scan spent two grading slots on the same small repository and accepted a three-day-old project on activity alone; its survivor-count line was also internally inconsistent. I added a one-issue-per-repository ranking rule and a non-gating project-maturity check, and logged the count error rather than rewriting the saved output. Direct grading then found an accepted issue in a repository that auto-closes fork PRs while I have only read access, so I added a required submission-route check; I have not rerun the full scan after these patches.
+I carried my fit profile into issue-scout, wrote two GitHub searches and a five-issue ranking strategy, and ran one scan that accepted four issues and rejected an underspecified Docker request. The scan spent two grading slots on the same small repository and accepted a three-day-old project on activity alone; its survivor-count line was also internally inconsistent. I added a one-issue-per-repository ranking rule and a non-gating project-maturity check, and logged the count error rather than rewriting the saved output. Direct grading then found an accepted issue in a repository that auto-closes fork PRs while I have only read access; after I added a required submission-route check, a focused regrade rejected it, though I have not rerun the full scan.
 
 **Unit 6: [one line on the tool work]**
 
