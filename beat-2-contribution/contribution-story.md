@@ -55,10 +55,9 @@ happened; these entries are the toolkit's own timeline.
 All four entries are graded. Keep every heading below, and fill each
 one in the week it belongs to.
 
-**Unit 5: [one line on the tool work]**
+**Unit 5: Rebuilt my issue selector as a Python documentation/configuration scout**
 
-[2-4 sentences: what you built (the scout, your strategy), what broke
-or fell short, what changed because of it.]
+I carried my fit profile into issue-scout, wrote two GitHub searches and a five-issue ranking strategy, and ran one scan that accepted four issues and rejected an underspecified Docker request. The scan spent two grading slots on the same small repository and accepted a three-day-old project on activity alone; its survivor-count line was also internally inconsistent. I added a one-issue-per-repository ranking rule and a non-gating project-maturity check, and logged the count error rather than rewriting the saved output. I have not rerun the paid scan after those edits, so their effect on a new top five is still unverified.
 
 **Unit 6: [one line on the tool work]**
 
